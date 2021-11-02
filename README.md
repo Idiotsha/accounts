@@ -1,2 +1,2 @@
 # accounts
-How to control a account
+How to control a google account from being hacked
